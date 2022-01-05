@@ -1,0 +1,8 @@
+{
+    "1": {
+        "Emp_Address": "London",
+        "Emp_Email": "dev123@gmail.com",
+        "Emp_Name": "Dev",
+        "Emp_Phone_No": 1234567890
+    }
+}
